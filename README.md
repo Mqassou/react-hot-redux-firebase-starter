@@ -1,4 +1,4 @@
-Firebase 3.0 Starter using React Redux
+Firebase 3.0 Starter using React Redux (test)
 =====================
 
 This is a Firebase 3.0 start using React and Redux.
